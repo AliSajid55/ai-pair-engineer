@@ -5,7 +5,7 @@ assigns severity, suggests tests, and generates minimal-diff refactor patches wi
 
 ## Live Demo
 
-[Launch AI Pair Engineer](https://ai-pair-engineer-oxpcyb8gnmk435dar2h1ej.streamlit.app/) Click and launch the app in your browser...
+[Launch AI Pair Engineer](https://ai-pair-engineer-oxpcyb8gnmk435dar2hlej.streamlit.app/) Click and launch the app in your browser...
 
 ## Overview
 
@@ -247,6 +247,7 @@ MIT License (or your chosen license)
 
 #### Ali Sajid
 AI Engineer | Computer Vision | Machine Learning | Generative AI
+
 
 
 
