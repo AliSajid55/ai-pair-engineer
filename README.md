@@ -3,6 +3,10 @@
 A Streamlit-based AI engineering assistant that reviews code like a senior developer - detects design flaws, 
 assigns severity, suggests tests, and generates minimal-diff refactor patches with structured JSON output.
 
+## Live Demo
+
+[Launch AI Pair Engineer](https://ai-pair-engineer-oxpcyb8gnmk435dar2h1ej.streamlit.app/) Click and launch the app in your browser...
+
 ## Overview
 
  'AI Pair Engineer' acts as an intelligent pair-programming assistant.
@@ -243,5 +247,6 @@ MIT License (or your chosen license)
 
 #### Ali Sajid
 AI Engineer | Computer Vision | Machine Learning | Generative AI
+
 
 
